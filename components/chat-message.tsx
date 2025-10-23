@@ -1,8 +1,9 @@
 import type { ChatMessage } from "@/lib/types"
 import { cn } from "@/lib/utils"
+import { UIMessage } from "ai";
 
 interface ChatMessageProps {
-  message: ChatMessage
+  message: UIMessage
   isLoading?: boolean
 }
 
@@ -33,7 +34,12 @@ export function ChatMessageComponent({ message, isLoading }: ChatMessageProps) {
                 <span className="animate-pulse delay-150">●</span>
               </div>
             ) : (
-              message.content
+                message.parts.map((part, i) => {
+                    switch (part.type) {
+                        case 'text':
+                            return <div key={`${message.id}-${i}`}>{part.text}</div>;
+                    }
+                })
             )}
           </div>
         </div>

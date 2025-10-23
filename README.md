@@ -1,30 +1,57 @@
-# Chat UI development
+# Elementor Editor AI Workshop
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A Next.js chat application with AI integration using the Vercel AI SDK and OpenAI.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/omerisra6s-projects/v0-chat-ui-development)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/prGq4N6E6Ye)
+## Features
 
-## Overview
+- Real-time chat interface with streaming responses
+- AI-powered conversations using OpenAI GPT-4o
+- Image generation capabilities
+- Modern UI with Tailwind CSS
+- TypeScript support
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Setup
+
+1. **Install dependencies:**
+   ```bash
+   pnpm install
+   ```
+
+2. **Set up environment variables:**
+   Create a `.env.local` file in the root directory:
+   ```env
+   OPENAI_API_KEY=your_openai_api_key_here
+   ```
+
+3. **Run the development server:**
+   ```bash
+   pnpm dev
+   ```
+
+4. **Open your browser:**
+   Navigate to [http://localhost:3000](http://localhost:3000)
+
+## Environment Variables
+
+- `OPENAI_API_KEY`: Your OpenAI API key (required)
+- `OPENAI_MODEL`: Optional model override (defaults to gpt-4o)
+
+## Tech Stack
+
+- **Framework:** Next.js 16
+- **AI SDK:** Vercel AI SDK v5
+- **Language Model:** OpenAI GPT-4o
+- **Styling:** Tailwind CSS
+- **UI Components:** Radix UI
+- **TypeScript:** Full type safety
+
+## Project Structure
+
+- `lib/ai-sdk/` - AI SDK configuration and functions
+- `lib/api/` - API layer for chat functionality
+- `components/` - React components for the chat interface
+- `app/` - Next.js app router pages
 
 ## Deployment
 
-Your project is live at:
-
-**[https://vercel.com/omerisra6s-projects/v0-chat-ui-development](https://vercel.com/omerisra6s-projects/v0-chat-ui-development)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/prGq4N6E6Ye](https://v0.app/chat/projects/prGq4N6E6Ye)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+This project is configured for deployment on Vercel with automatic environment variable configuration.
