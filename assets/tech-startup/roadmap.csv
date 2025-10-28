@@ -1,0 +1,22 @@
+feature_id,feature_name,product,status,release_quarter,priority,team,completion_percent,public_announcement
+FEAT-001,Dark Mode UI,Platform,Released,Q4 2024,High,Frontend,100,Yes
+FEAT-002,Mobile App v2.0,Mobile,In Progress,Q1 2025,High,Mobile,75,Yes
+FEAT-003,API Rate Limiting,Platform,Released,Q4 2024,High,Backend,100,Yes
+FEAT-004,Advanced Analytics Dashboard,Platform,In Progress,Q1 2025,Medium,Data,60,Yes
+FEAT-005,Team Collaboration Features,Platform,Planning,Q2 2025,High,Frontend,25,Yes
+FEAT-006,SSO Integration,Platform,In Progress,Q1 2025,High,Backend,80,Yes
+FEAT-007,Webhook Support,Platform,Released,Q4 2024,Medium,Backend,100,Yes
+FEAT-008,Custom Branding,Platform,Planning,Q2 2025,Medium,Frontend,15,Yes
+FEAT-009,Export to PDF,Platform,In Progress,Q1 2025,Low,Frontend,50,Yes
+FEAT-010,Real-time Notifications,Platform,Planning,Q2 2025,High,Backend,20,Yes
+FEAT-011,Multi-language Support,Platform,Planning,Q2 2025,Medium,Frontend,10,Yes
+FEAT-012,Advanced Search Filters,Platform,In Progress,Q1 2025,Medium,Backend,65,Yes
+FEAT-013,Template Marketplace,Platform,Planning,Q3 2025,Medium,Product,5,Yes
+FEAT-014,Version History,Platform,Planning,Q2 2025,High,Backend,30,Yes
+FEAT-015,Two-Factor Authentication,Platform,Released,Q4 2024,High,Security,100,Yes
+FEAT-016,Automated Backups,Platform,Released,Q4 2024,High,Infrastructure,100,No
+FEAT-017,Performance Optimization,Platform,In Progress,Q1 2025,High,Engineering,70,No
+FEAT-018,Project Hydra,AI Platform,Development,Q2 2026,Critical,AI Research,35,No
+FEAT-019,GraphQL API,Platform,Planning,Q3 2025,Medium,Backend,0,Yes
+FEAT-020,Desktop App,Desktop,Planning,Q4 2025,Low,Desktop,0,Yes
+

@@ -1,0 +1,14 @@
+project_id,project_title,genre,production_phase,director,producer,budget_millions,release_date,lead_actor,status
+PROJ-001,Midnight Chronicles,Thriller,Post-Production,Sarah Williams,Michael Chen,45,2025-03-15,Emily Stone,On Schedule
+PROJ-002,Summer of Dreams,Romance,Filming,David Martinez,Jennifer Adams,28,2025-07-22,Chris Evans,On Schedule
+PROJ-003,Galaxy Warriors 3,Sci-Fi,Pre-Production,James Rodriguez,Lisa Thompson,120,2026-05-01,TBA,Casting
+PROJ-004,The Last Detective,Crime,Post-Production,Amanda Foster,Kevin Park,38,2025-04-28,Morgan Freeman,On Schedule
+PROJ-005,Laugh Out Loud,Comedy,Filming,Robert Kim,Michelle Lee,22,2025-06-12,Kevin Hart,On Schedule
+PROJ-006,Ancient Legacy,Action/Adventure,Pre-Production,Daniel Garcia,Susan Taylor,95,2026-08-14,Tom Hanks,Casting Finalized
+PROJ-007,Whispers in the Dark,Horror,Development,Christopher Brown,Nancy Davis,18,2025-10-31,TBA,Script Review
+PROJ-008,Hearts United,Drama,Filming,Patricia White,Brian Foster,32,2025-09-05,Meryl Streep,On Schedule
+PROJ-009,City Lights,Musical,Pre-Production,Rachel Green,Thomas Anderson,55,2026-02-14,Hugh Jackman,Casting
+PROJ-010,The Rising,Drama,Post-Production,Carlos Martinez,Emily Rodriguez,42,2025-05-16,Denzel Washington,Editing
+PROJ-011,Quantum Shift,Sci-Fi,Development,Sarah Williams,Michael Chen,88,2026-11-20,TBA,Concept Phase
+PROJ-012,Family Matters,Comedy,Filming,David Martinez,Jennifer Adams,25,2025-08-08,Melissa McCarthy,On Schedule
+

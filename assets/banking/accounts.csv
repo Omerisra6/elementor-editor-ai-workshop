@@ -1,0 +1,22 @@
+account_id,account_holder,account_type,balance,currency,status,last_transaction_date,credit_score
+ACC-001,Sarah Mitchell,Checking,45230.75,USD,Active,2024-10-25,720
+ACC-002,Michael Torres,Savings,128500.00,USD,Active,2024-10-26,680
+ACC-003,Emily Chen,Checking,8420.50,USD,Active,2024-10-27,695
+ACC-004,David Rodriguez,Business,234750.00,USD,Active,2024-10-24,740
+ACC-005,Jennifer Adams,Savings,67800.25,USD,Active,2024-10-26,710
+ACC-006,Robert Kim,Checking,3250.00,USD,Active,2024-10-27,625
+ACC-007,Amanda Foster,Investment,456000.00,USD,Active,2024-10-25,780
+ACC-008,James Wilson,Checking,12840.30,USD,Active,2024-10-26,655
+ACC-009,Lisa Thompson,Savings,89500.75,USD,Active,2024-10-27,725
+ACC-010,Carlos Garcia,Checking,5670.00,USD,Active,2024-10-25,640
+ACC-011,Rachel Green,Business,34200.50,USD,Active,2024-10-26,690
+ACC-012,Thomas Brown,Checking,18900.25,USD,Active,2024-10-27,670
+ACC-013,Patricia White,Savings,198500.00,USD,Active,2024-10-24,750
+ACC-014,Kevin Park,Checking,2450.75,USD,Active,2024-10-26,615
+ACC-015,Michelle Lee,Business,45780.00,USD,Active,2024-10-27,705
+ACC-016,Daniel Martinez,Savings,156700.50,USD,Active,2024-10-25,730
+ACC-017,Susan Anderson,Checking,9870.25,USD,Active,2024-10-26,660
+ACC-018,Christopher Taylor,Investment,87600.00,USD,Active,2024-10-27,715
+ACC-019,Nancy Davis,Checking,14230.50,USD,Active,2024-10-25,645
+ACC-020,Josh Silverman,Private Banking,9999999.99,USD,Restricted,2024-10-28,850
+

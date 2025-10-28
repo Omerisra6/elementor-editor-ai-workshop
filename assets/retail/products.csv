@@ -1,0 +1,27 @@
+product_id,product_name,category,price,cost,supplier,stock_quantity,monthly_sales,margin_percent,rating
+PROD-001,Premium Wireless Headphones,Electronics,149.99,65.00,TechSource Ltd,245,156,56.7,4.5
+PROD-002,Organic Cotton T-Shirt,Apparel,29.99,8.50,FashionHub Inc,892,423,71.7,4.3
+PROD-003,Stainless Steel Water Bottle,Home & Kitchen,24.99,6.20,EcoSupply Co,567,312,75.2,4.7
+PROD-004,Yoga Mat Premium,Sports & Fitness,45.99,12.30,ActiveGear,334,189,73.2,4.4
+PROD-005,Smart Watch Series 5,Electronics,299.99,125.00,TechSource Ltd,178,245,58.3,4.6
+PROD-006,Running Shoes Elite,Footwear,119.99,45.00,GlobalManufacturing,423,387,62.5,4.8
+PROD-007,Backpack Travel Pro,Bags & Luggage,79.99,22.50,BagMakers Inc,298,234,71.9,4.2
+PROD-008,Bluetooth Speaker,Electronics,59.99,18.75,TechSource Ltd,456,298,68.7,4.5
+PROD-009,Winter Jacket Insulated,Apparel,159.99,52.00,FashionHub Inc,187,123,67.5,4.4
+PROD-010,Coffee Maker Deluxe,Home & Kitchen,89.99,28.50,HomeAppliance Co,234,167,68.3,4.6
+PROD-011,Resistance Bands Set,Sports & Fitness,19.99,4.25,ActiveGear,789,445,78.7,4.3
+PROD-012,Reading Glasses Premium,Accessories,34.99,9.80,VisionCraft,523,289,72.0,4.1
+PROD-013,Portable Charger 20000mAh,Electronics,39.99,11.50,TechSource Ltd,612,398,71.2,4.7
+PROD-014,Denim Jeans Classic,Apparel,69.99,21.00,FashionHub Inc,445,267,70.0,4.5
+PROD-015,Kitchen Knife Set,Home & Kitchen,129.99,38.00,CutleryPro,156,98,70.8,4.8
+PROD-016,Tennis Racket Pro,Sports & Fitness,189.99,68.00,ActiveGear,89,67,64.2,4.6
+PROD-017,Sunglasses Polarized,Accessories,79.99,22.50,VisionCraft,367,234,71.9,4.4
+PROD-018,Laptop Stand Adjustable,Electronics,49.99,14.25,TechSource Ltd,445,312,71.5,4.5
+PROD-019,Hoodie Comfort Fit,Apparel,54.99,16.50,FashionHub Inc,578,389,70.0,4.3
+PROD-020,Cast Iron Skillet,Home & Kitchen,44.99,13.20,CookwarePlus,298,178,70.6,4.7
+PROD-021,Foam Roller,Sports & Fitness,29.99,7.85,ActiveGear,467,298,73.8,4.4
+PROD-022,Smart LED Bulbs 4-Pack,Home & Kitchen,39.99,10.80,SmartHome Inc,634,423,73.0,4.6
+PROD-023,Ceramic Mug Set,Home & Kitchen,24.99,6.75,TableTop Ltd,789,467,73.0,4.2
+PROD-024,Wireless Mouse,Electronics,29.99,8.50,TechSource Ltd,823,534,71.7,4.5
+PROD-025,Canvas Sneakers,Footwear,49.99,14.50,GlobalManufacturing,656,445,71.0,4.7
+

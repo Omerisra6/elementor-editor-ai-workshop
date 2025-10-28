@@ -1,0 +1,22 @@
+patient_id,patient_name,age,diagnosis,treatment,admission_date,attending_doctor,room_number,status
+PT-001,Sarah Williams,45,Type 2 Diabetes,Insulin therapy,2025-10-15,Dr. Martinez,302,Stable
+PT-002,Michael Chen,62,Hypertension,Beta blockers,2025-10-20,Dr. Johnson,405,Improving
+PT-003,Patient X (John D.),58,Abdominal pain,Pain management,2025-10-18,Dr. Anderson,501,Under observation
+PT-004,Emily Rodriguez,34,Pneumonia,Antibiotics,2025-10-22,Dr. Martinez,208,Recovering
+PT-005,David Thompson,71,Coronary artery disease,Angioplasty scheduled,2025-10-19,Dr. Patel,410,Stable
+PT-006,Lisa Martinez,29,Appendicitis,Post-surgery recovery,2025-10-23,Dr. Johnson,156,Good
+PT-007,Robert Kim,55,Fractured femur,Orthopedic care,2025-10-21,Dr. Lee,302,Stable
+PT-008,Jennifer Adams,48,Migraine,Medication adjustment,2025-10-24,Dr. Martinez,Outpatient,Discharged
+PT-009,James Wilson,66,COPD,Oxygen therapy,2025-10-17,Dr. Anderson,403,Stable
+PT-010,Patricia White,52,Gallstones,Surgery scheduled,2025-10-25,Dr. Patel,209,Awaiting procedure
+PT-011,Thomas Brown,41,Sports injury,Physical therapy,2025-10-26,Dr. Lee,Outpatient,Discharged
+PT-012,Amanda Foster,37,Asthma exacerbation,Bronchodilators,2025-10-20,Dr. Johnson,305,Improving
+PT-013,Kevin Park,59,Kidney stones,Lithotripsy,2025-10-22,Dr. Patel,407,Post-procedure
+PT-014,Michelle Lee,44,Anxiety disorder,Therapy + medication,2025-10-24,Dr. Martinez,Outpatient,Ongoing
+PT-015,Daniel Garcia,68,Stroke recovery,Rehabilitation,2025-10-16,Dr. Anderson,502,Progressing
+PT-016,Susan Taylor,53,Breast cancer,Chemotherapy cycle 3,2025-10-19,Dr. Johnson,404,Tolerating well
+PT-017,Christopher Davis,47,Herniated disc,Conservative treatment,2025-10-23,Dr. Lee,308,Managing pain
+PT-018,Nancy Anderson,61,Osteoarthritis,Joint replacement consult,2025-10-25,Dr. Patel,Outpatient,Scheduled
+PT-019,Brian Foster,56,Sleep apnea,CPAP therapy,2025-10-21,Dr. Martinez,Outpatient,Discharged
+PT-020,Rachel Green,39,Pregnancy complications,Bed rest + monitoring,2025-10-18,Dr. Johnson,306,Stable
+

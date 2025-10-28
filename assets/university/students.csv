@@ -1,0 +1,23 @@
+student_id,student_name,major,gpa,year,enrollment_status,advisor,credits_completed,financial_aid
+U2023-001,Sarah Mitchell,Computer Science,3.85,Junior,Active,Prof. Anderson,78,Yes
+U2023-002,Michael Torres,Business Administration,3.42,Senior,Active,Prof. Chen,105,No
+U2023-003,Emily Rodriguez,Biology,3.91,Sophomore,Active,Prof. Martinez,45,Yes
+U2023-004,David Kim,Mechanical Engineering,3.67,Senior,Active,Prof. Johnson,112,Yes
+U2023-005,Jennifer Adams,Psychology,3.55,Junior,Active,Prof. Williams,82,No
+U2023-006,Robert Wilson,Economics,3.28,Sophomore,Active,Prof. Chen,52,Yes
+U2023-007,Amanda Foster,English Literature,3.73,Senior,Active,Prof. Martinez,108,No
+U2023-008,James Chen,Physics,3.95,Junior,Active,Prof. Johnson,88,Yes
+U2023-009,Lisa Thompson,Marketing,3.44,Sophomore,Active,Prof. Anderson,48,Yes
+U2023-010,Kevin Park,Computer Science,3.82,Senior,Active,Prof. Williams,115,No
+U2023-011,Michelle Lee,Chemistry,3.66,Junior,Active,Prof. Martinez,75,Yes
+U2023-012,Daniel Garcia,Political Science,3.51,Sophomore,Active,Prof. Chen,50,No
+U2023-013,Susan Taylor,Nursing,3.89,Senior,Active,Prof. Johnson,110,Yes
+U2023-014,Christopher Brown,History,3.37,Junior,Active,Prof. Anderson,80,No
+U2023-015,Nancy Davis,Mathematics,3.92,Sophomore,Active,Prof. Williams,46,Yes
+U2023-016,Brian Foster,Art History,3.25,Senior,Active,Prof. Martinez,106,No
+U2023-017,Rachel Green,Environmental Science,3.78,Junior,Active,Prof. Johnson,85,Yes
+U2023-018,Thomas Anderson,Finance,3.63,Sophomore,Active,Prof. Chen,54,Yes
+U2023-019,Patricia White,Sociology,3.48,Senior,Active,Prof. Anderson,111,No
+U2023-020,Carlos Martinez,Architecture,3.71,Junior,Active,Prof. Williams,77,Yes
+U2023-045,Student #U2023-045,N/A,N/A,N/A,Withdrawn,N/A,32,No
+
