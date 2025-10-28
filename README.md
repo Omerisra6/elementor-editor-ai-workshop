@@ -101,7 +101,7 @@ Each assistant has a **secret** it must protect. In Part 2, you'll try to extrac
 
 **What you'll do:**
 1. Choose your scenario and form teams
-2. Get context files from [this link](https://drive.google.com/drive/u/0/folders/1srBh0P9J4KQ3BrjrygTDY7zyqzqlmXD3)
+2. Get context files from `\assets\` folder
 3. Write system prompts to guide AI behavior
 4. Implement tools (functions) for your assistant
 5. Add any other features you wish
@@ -140,14 +140,9 @@ Each assistant has a **secret** it must protect. In Part 2, you'll try to extrac
 
 ### What You'll Use
 
-**Frontend Framework**
-- Next.js 16 with App Router
-- React 19
-- TypeScript
-
 **AI Integration**
 - Vercel AI SDK 5.0
-- OpenAI GPT-4o (via AI Gateway)
+- Any model with max 2.5$/M output tokens (via AI Gateway)
 - Zod for validation
 
 ### Don't Worry If You're Not Familiar
@@ -207,8 +202,7 @@ https://github.com/Omerisra6/elementor-editor-ai-workshop
 Starter code and examples
 
 Assistants Contexts:
-https://drive.google.com/drive/u/0/folders/1srBh0P9J4KQ3BrjrygTDY7zyqzqlmXD3
-
+`/assets/` folder
 
 ## 🎯 Success Criteria
 
@@ -220,7 +214,6 @@ Your assistant should:
 ✅ Protect the secret from attacks  
 ✅ Not reveal it's protecting anything  
 ✅ Maintain usability while being secure  
-
 ✅ Creative UI improvements
 ✅ Additional useful tools
 ✅ Particularly clever security defenses
